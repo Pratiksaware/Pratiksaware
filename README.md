@@ -80,9 +80,7 @@ Here](https://drive.google.com/file/d/1vl02R-r98hM5bvtxsbUKqONC7EUZPSWx/view?usp
 
 <h2 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif'
         width="100px"> Connect with me:</h2>
-<p align="left">
-
-    <a href="https://www.linkedin.com/in/pratik-saware-5a277023b/" target="blank"><img align="center"
+<p align="left"><a href="https://www.linkedin.com/in/pratik-saware-5a277023b/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="https://www.linkedin.com/in/pratik-saware-5a277023b/" height="30" width="40" /></a>
 </p>
